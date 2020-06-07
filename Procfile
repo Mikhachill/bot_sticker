@@ -1,1 +1,1 @@
-release: nohup python  sticker_bot_v1.py &
+worker: sticker_bot_v1.py 
