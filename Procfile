@@ -1,1 +1,2 @@
-worker: sticker_bot_v1.py 
+worker: python sticker_bot_v1.py 
+
