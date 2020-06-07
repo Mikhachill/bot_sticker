@@ -1,0 +1,8 @@
+numpy==1.18.1
+packaging==19.2
+pandas==1.0.0
+pandocfilters==1.4.2
+pickleshare==0.7.5
+pluggy==0.13.1
+pyTelegramBotAPI==3.6.6
+pytest==5.1.1
