@@ -1,4 +1,4 @@
-numpy==1.18.1
+numpy==1.22.0
 packaging==19.2
 pandas==1.0.0
 pandocfilters==1.4.2
